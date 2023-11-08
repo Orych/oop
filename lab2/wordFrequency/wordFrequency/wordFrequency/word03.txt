@@ -1,0 +1,10 @@
+friends- 100
+friendses- 42
+friendsmeet- 12
+friendsmeetup- 14
+hello- 112
+hellopd- 42
+meet- 72
+meetup- 28
+my- 112
+myed- 42

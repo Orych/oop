@@ -1,0 +1,1 @@
+Usage: compare.exe <file1> <file2>

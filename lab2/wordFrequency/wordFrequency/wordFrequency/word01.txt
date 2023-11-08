@@ -1,0 +1,4 @@
+friends- 5
+hello- 5
+meet- 4
+my- 5
